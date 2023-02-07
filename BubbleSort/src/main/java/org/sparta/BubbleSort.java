@@ -14,6 +14,6 @@ public class BubbleSort {
                 }
             }
         }
-        return null;
+        return arrayToSort;
     }
 }
